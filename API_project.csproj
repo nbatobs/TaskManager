@@ -23,4 +23,13 @@
       <Folder Include="Controllers\" />
     </ItemGroup>
 
+    <ItemGroup>
+      <_ContentIncludedByDefault Remove="API_project\appsettings.Development.json" />
+      <_ContentIncludedByDefault Remove="API_project\appsettings.json" />
+      <_ContentIncludedByDefault Remove="API_project\obj\API_project.csproj.nuget.dgspec.json" />
+      <_ContentIncludedByDefault Remove="API_project\obj\project.assets.json" />
+      <_ContentIncludedByDefault Remove="API_project\obj\project.packagespec.json" />
+      <_ContentIncludedByDefault Remove="API_project\Properties\launchSettings.json" />
+    </ItemGroup>
+
 </Project>
